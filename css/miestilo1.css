@@ -1,0 +1,33 @@
+body {background-color: rgb(230, 16, 133);
+}
+
+h1 { 
+     height: 100px; 
+     background: rgb(134, 13, 80);
+     margin: 20px 50px;
+     padding: 30px; 
+    border: 10px solid rgb(68, 34, 53) ;
+    }
+
+h1,h2 {text-align: center;}
+
+h1 { font-size: 50px;background: linear-gradient(to right,rgb(250, 15, 172),rgb(236, 17, 163),rgb(136, 20, 111),rgb(146, 8, 112));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color:  transparent;
+    }
+
+h2 { font-size: 50px;background: linear-gradient(to right,rgb(207, 231, 67),rgb(124, 238, 71),rgb(80, 233, 233),rgb(207, 231, 67),rgb(124, 238, 71),rgb(80, 233, 233));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color:  transparent;
+    }
+
+h3 {text-align: left;
+    text-shadow: 2px 2px rgb(37, 3, 30);
+}
+
+p1 { float: right;}
+
+
+
